@@ -30,8 +30,8 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 | P&D | CEASB | 15/03/2015 - 30/09/2016 | 
 | Analista Freelancer | IMS Desenvolvimento de Software | 08/2015 - 09/2016 | 
 
-:nodejs: :javascript: :mysql:
 
+### Panorama dos meus repositórios
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Escobar&show_icons=true&locale=en&layout=compact" alt="Rafael-Escobar" /></p>
 
