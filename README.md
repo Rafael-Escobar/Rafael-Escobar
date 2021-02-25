@@ -14,6 +14,9 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 -- [node.js] 
 -- [Express]
 * PHP
+* Python
+* Go
+* MongoDB
 * MySql
 * [Quire.io]
 
@@ -21,7 +24,8 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 
 | Empresa | Cargo | Período |
 | ------ | ------ |------ |
-| Gerente de projetos junior | Kionux / MS Bank | 01/04/2019 - ...| 
+| Analista Desenvolvedor | Mercafacil | 19/10/2020 - ...| 
+| Gerente de projetos junior | Kionux / MS Bank | 01/04/2019 - 16/10/2020| 
 | Desenvolvedor | Kionux / MS Bank | 03/10/2016 - 01/04/2019 | 
 | P&D | CEASB | 15/03/2015 - 30/09/2016 | 
 | Analista Freelancer | IMS Desenvolvimento de Software | 08/2015 - 09/2016 | 
