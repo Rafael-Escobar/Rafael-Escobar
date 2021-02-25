@@ -32,6 +32,10 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 
 :nodejs: :javascript: :mysql:
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Escobar&show_icons=true&locale=en&layout=compact" alt="Rafael-Escobar" /></p>
+
+
 <!--
 **Rafael-Escobar/Rafael-Escobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
