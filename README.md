@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machadoescobarr@gmail.com)](mailto:machadoescobarr@gmail.com)
 
 Meu nome é Rafael, sou bacharel em ciência da computação pela UNIOESTE. Atualmente exerço o papel desenvolvedor backend no time de novas integrações, onde trabalho com python, Go, base de dados Mongo.
-Meu trabalho anterio atuei como gerente de projetos júnior, coordenando equipe, levantamento de backlog,  análise, integração e follow-up. Também atuei como desenvolvedor backend, onde trabalhei com PHP, Node.js, base de dados MySQL e um pouco de Oracle.
+No meu trabalho anterior atuei como gerente de projetos júnior, coordenando equipe, realizando levantamento de backlog,  análise, integração e follow-up. Também atuei como desenvolvedor backend, onde trabalhei com PHP, Node.js, base de dados MySQL e um pouco de Oracle.
 Em minha jornada já participei de pesquisa e desenvolvimento no laboratório CEASB de segurança de barragens, situado no parque tecnológico de Itaipu, neste projeto atuei como cientista e pesquisador no desenvolvimento de um protótipo de sistema de detecção de falhas utilizando estatística multivariada. 
 Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Desenvolvimento de software, em um projeto de diagnóstico social.
 
