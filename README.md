@@ -23,10 +23,10 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 * MongoDB
 * MySql
 * AWS
-** SQS
-** S3
-** EC2
-** Lambda
+* * SQS
+* * S3
+* * EC2
+* * Lambda
 * [Quire.io]
 * Jira
 * Docker
