@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaugustomachadoescobar/)](https://www.linkedin.com/in/rafaelaugustomachadoescobar/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machadoescobarr@gmail.com)](mailto:machadoescobarr@gmail.com)
 
-Meu nome é Rafael, sou bacharel em ciência da computação pela UNIOESTE. Atualmente exerço o papel desenvolvedor backend no time de novas integrações, onde trabalho com python, Go, base de dados Mongo.
+Meu nome é Rafael, sou bacharel em ciência da computação pela UNIOESTE. Atualmente exerço o papel desenvolvedor backend na squad de checkout dentro da tribo macketplace na TradersClub, onde trabalho com Go, base de dados Mongo e Postgres.<br>
+Anteriormente tive uma das mais prazeirosas experiência da minha vida onde atuei como desenvolvedor backend no time de novas integrações na Mercafacil, liederado por Julio Werner, la trabalhei com python, Go, AWS, Airflow e base de dados Mongo.
 No meu trabalho anterior atuei como gerente de projetos júnior, coordenando equipe, realizando levantamento de backlog,  análise, integração e follow-up. Também atuei como desenvolvedor backend, onde trabalhei com PHP, Node.js, base de dados MySQL e um pouco de Oracle.
 Em minha jornada já participei de pesquisa e desenvolvimento no laboratório CEASB de segurança de barragens, situado no parque tecnológico de Itaipu, neste projeto atuei como cientista e pesquisador no desenvolvimento de um protótipo de sistema de detecção de falhas utilizando estatística multivariada. 
 Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Desenvolvimento de software, em um projeto de diagnóstico social.
@@ -16,10 +17,19 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 -- [Express]
 * PHP
 * Python
+* Flask
+* AirFlow
 * Go
 * MongoDB
 * MySql
+* AWS
+** SQS
+** S3
+** EC2
+** Lambda
 * [Quire.io]
+* Jira
+* Docker
 
 <ul>
 
@@ -63,7 +73,8 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 
 | Empresa | Cargo | Período |
 | ------ | ------ |------ |
-| Analista Desenvolvedor | Mercafacil | 19/10/2020 - ...| 
+| Desenvolvedor Backend Go | TradersClub | 16/08/2021 - ...|
+| Analista Desenvolvedor | Mercafacil | 19/10/2020 - 13/08/2021| 
 | Gerente de projetos junior | Kionux / MS Bank | 01/04/2019 - 16/10/2020| 
 | Desenvolvedor | Kionux / MS Bank | 03/10/2016 - 01/04/2019 | 
 | P&D | CEASB | 15/03/2015 - 30/09/2016 | 
