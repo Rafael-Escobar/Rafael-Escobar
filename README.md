@@ -18,22 +18,22 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 ### Linguagens, frameworks e ferramentas
   
 <p>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go"  alt="Go"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python"  alt="Python"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript"  alt="JavaScript"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="NodeJS"  alt="NodeJS"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="express"  alt="express"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  title="PHP"  alt="PHP"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"  title="GCP"  alt="GCP"  widh="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"  title="MongoDB"  alt="MongoDB "  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL"  alt="MySQL"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  title="AWS"  alt="AWS"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="Git"  alt="Git"  width="40"  height="40"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"  title="Docker"  alt="Docker"  width="40"  height="40"/>
-  <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  title="Postman"  alt="Postman"  width="40"  height="40"/>
-  <img src="https://d12y7sg0iam4lc.cloudfront.net/s/img/website/logo-footer.svg" title="quire" alt="quire" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="40" height="40"/>
-  <img  src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png"  title="AirFlow"  alt="AirFlow"  width="40"  height="40"/>
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go"  alt="Go"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python"  alt="Python"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript"  alt="JavaScript"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="NodeJS"  alt="NodeJS"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="express"  alt="express"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  title="PHP"  alt="PHP"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"  title="GCP"  alt="GCP"  widh="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"  title="MongoDB"  alt="MongoDB "  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL"  alt="MySQL"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  title="AWS"  alt="AWS"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="Git"  alt="Git"  width="40"  height="40"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"  title="Docker"  alt="Docker"  width="40"  height="40"/>&nbsp;
+  <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  title="Postman"  alt="Postman"  width="40"  height="40"/>&nbsp;
+  <img src="https://d12y7sg0iam4lc.cloudfront.net/s/img/website/logo-footer.svg" title="quire" alt="quire" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="40" height="40"/>&nbsp;
+  <img  src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png"  title="AirFlow"  alt="AirFlow"  width="40"  height="40"/>&nbsp;
 </p>
 
 ### Experência profissional
