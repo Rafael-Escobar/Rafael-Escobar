@@ -33,7 +33,7 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
   <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  title="Postman"  alt="Postman"  width="40"  height="40"/>
   <img src="https://d12y7sg0iam4lc.cloudfront.net/s/img/website/logo-footer.svg" title="quire" alt="quire" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="40" height="40"/>
-  <img  src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin.svg"  title="AirFlow"  alt="AirFlow"  width="40"  height="40"/>
+  <img  src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png"  title="AirFlow"  alt="AirFlow"  width="40"  height="40"/>
 </p>
 
 ### Experência profissional
