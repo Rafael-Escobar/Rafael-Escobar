@@ -8,10 +8,10 @@
 <h1 align="center">Ola seja bem vindo(a) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </p>
 
-Meu nome é Rafael, sou bacharel em ciência da computação pela UNIOESTE. Atualmente atuo como engenhiero de software na Truepay uma fintech.**ENTER**
-Em minha passagem pela TrandersClub atuei no papel desenvolvedor backend na squad de checkout dentro da tribo macketplace, contribui na integração do PUB/SUB da Gpay junto ao microserviço de checkout utilizando Go, base de dados Mongo e Postgres.**ENTER**
-Anteriormente tive uma das mais prazeirosas experiência da minha vida onde atuei como desenvolvedor backend no time de novas integrações na Mercafacil, liederado por Julio Werner, la trabalhei com python, Go, AWS, Airflow e base de dados Mongo.**ENTER**
-No meu trabalho anterior atuei como gerente de projetos júnior, coordenando equipe, realizando levantamento de backlog,  análise, integração e follow-up. Também atuei como desenvolvedor backend, onde trabalhei com PHP, Node.js, base de dados MySQL e um pouco de Oracle.**ENTER**
+Meu nome é Rafael, sou bacharel em ciência da computação pela UNIOESTE. Atualmente atuo como engenhiero de software na Truepay uma fintech.\
+Em minha passagem pela TrandersClub atuei no papel desenvolvedor backend na squad de checkout dentro da tribo macketplace, contribui na integração do PUB/SUB da Gpay junto ao microserviço de checkout utilizando Go, base de dados Mongo e Postgres.\
+Anteriormente tive uma das mais prazeirosas experiência da minha vida onde atuei como desenvolvedor backend no time de novas integrações na Mercafacil, liederado por Julio Werner, la trabalhei com python, Go, AWS, Airflow e base de dados Mongo.\
+No meu trabalho anterior atuei como gerente de projetos júnior, coordenando equipe, realizando levantamento de backlog,  análise, integração e follow-up. Também atuei como desenvolvedor backend, onde trabalhei com PHP, Node.js, base de dados MySQL e um pouco de Oracle.\
 Em minha jornada já participei de pesquisa e desenvolvimento no laboratório CEASB de segurança de barragens, situado no parque tecnológico de Itaipu, neste projeto atuei como cientista e pesquisador no desenvolvimento de um protótipo de sistema de detecção de falhas utilizando estatística multivariada.
 Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Desenvolvimento de software, em um projeto de diagnóstico social.
 
