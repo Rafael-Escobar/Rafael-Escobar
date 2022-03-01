@@ -40,11 +40,11 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 
 | Empresa | Cargo | Período |
 | ------ | ------ |------ |
-| Software Engineer | TruePay | 29/11/2021 - ...|
-| Desenvolvedor Backend Go | TradersClub | 16/08/2021 - 26/11/2021|
-| Analista Desenvolvedor | Mercafacil | 19/10/2020 - 13/08/2021|
-| Gerente de projetos junior | Kionux / MS Bank | 01/04/2019 - 16/10/2020|
-| Desenvolvedor | Kionux / MS Bank | 03/10/2016 - 01/04/2019 |
+| Software Engineer | <a href="https://truepay.com.br/">TruePay</a> | 29/11/2021 - ...|
+| Desenvolvedor Backend Go | <a href="https://tc.com.br/">TradersClub</a> | 16/08/2021 - 26/11/2021|
+| Analista Desenvolvedor | <a href="https://mercafacil.com/">Mercafacil</a>| 19/10/2020 - 13/08/2021|
+| Gerente de projetos junior | <a href="http://www.kionux.com.br/index">Kionux</a> / <a href="https://www.msbank.com.br/">MS Bank</a> | 01/04/2019 - 16/10/2020|
+| Desenvolvedor | <a href="http://www.kionux.com.br/index">Kionux</a> / <a href="https://www.msbank.com.br/">MS Bank</a> | 03/10/2016 - 01/04/2019 |
 | P&D | CEASB | 15/03/2015 - 30/09/2016 |
 | Analista Freelancer | IMS Desenvolvimento de Software | 08/2015 - 09/2016 |
 
