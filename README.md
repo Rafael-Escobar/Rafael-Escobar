@@ -45,7 +45,7 @@ Também realizei trabalho freelancer, como analista e desenvolvedor para IMS Des
 | Analista Desenvolvedor | <a href="https://mercafacil.com/">Mercafacil</a>| 19/10/2020 - 13/08/2021|
 | Gerente de projetos junior | <a href="http://www.kionux.com.br/index">Kionux</a> / <a href="https://www.msbank.com.br/">MS Bank</a> | 01/04/2019 - 16/10/2020|
 | Desenvolvedor | <a href="http://www.kionux.com.br/index">Kionux</a> / <a href="https://www.msbank.com.br/">MS Bank</a> | 03/10/2016 - 01/04/2019 |
-| P&D | CEASB | 15/03/2015 - 30/09/2016 |
+| P&D |<a href="https://www.pti.org.br/estruturasdebarragens/"> CEASB</a> | 15/03/2015 - 30/09/2016 |
 | Analista Freelancer | IMS Desenvolvimento de Software | 08/2015 - 09/2016 |
 
 ### Panorama dos meus repositórios
